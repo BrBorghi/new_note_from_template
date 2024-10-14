@@ -72,7 +72,7 @@ String.prototype.render = function (dict) {
   // returns the whole string
 	return this.replace(/\{\{([^\}]+)\}\}/g, function (fullmatch, groupmatch) {
         const a= groupmatch.split('|'), key = a[0]
-        return (key in dict) ? dict[key] : (a.length = 2) ? a[1] : "";
+        return (key in dict) ? dict[key] : (a.length == 2) ? a[1] : "";
 	});
 };
 
