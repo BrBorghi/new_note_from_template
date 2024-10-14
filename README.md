@@ -19,7 +19,7 @@ NB:
 
 
 ## Plug-in installation
-- download the zip file [com.akeirou.newnotefromtemplate.thearchiveplugin.zip](https://github.com/BrBorghi/new_note_from_template/releases/download/V1.0.0/com.akeirou.newnotefromtemplate.thearchiveplugin.zip)
+- download the zip file [com.akeirou.newnotefromtemplate.thearchiveplugin.zip](https://github.com/BrBorghi/new_note_from_template/releases/download/V1.0.1/com.akeirou.newnotefromtemplate.thearchiveplugin.zip)
 - unzip it in a temporary folder
 - double-click on the bundle `com.akeirou.newnotewithtimestamp.thearchiveplugin` to install it
 - alternatively to install it, you can copy the bundle `com.akeirou.newnotefromtemplate.thearchiveplugin` in the folder `~/Library/Application\ Support/TheArchive/Plugins/Installed`
