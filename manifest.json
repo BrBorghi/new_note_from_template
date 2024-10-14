@@ -1,0 +1,30 @@
+{
+  "appVersion" : "1.8.0",
+  "authors" : [
+    {
+      "name" : "Bruno Borghi"
+    }
+  ],
+  "dependencies" : [
+
+  ],
+  "description" : "",
+  "identifier" : "com.akeirou.newnotefromtemplate",
+  "input" : {
+    "notes" : [
+      "all"
+    ],
+    "text" : [
+
+    ]
+  },
+  "output" : {
+    "changeFile" : {
+      "programmaticFilename" : true
+    },
+    "onCompletion" : "showFile"
+  },
+  "releaseDate" : "2024-10-14",
+  "title" : "New note from template",
+  "version" : "1.0.0"
+}
